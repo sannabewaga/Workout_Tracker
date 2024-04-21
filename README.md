@@ -1,10 +1,11 @@
 # Workout_Tracker
 
-**Overview**
+**#Overview**
+
 
 The Workout Tracker is a Python script designed to simplify the process of tracking your workout sessions. It allows you to log exercise details, such as the type of exercises performed, duration, and calories burned, and automatically stores this information in a Google Sheet using the Sheety API. The script interprets natural language input, making it easy to describe your workouts in plain English.
 
-**Features**
+**#Features**
 1-Exercise Logging: Log your workout sessions by providing details such as exercise type, duration, and calories burned.
 
 2-Automated Logging: The script automatically logs your workout data into a designated Google Sheet using the Sheety API, eliminating the need for manual data entry.
